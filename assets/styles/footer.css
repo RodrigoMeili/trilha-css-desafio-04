@@ -1,0 +1,7 @@
+#rodape {
+    background-color: var(--cor-principal);
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
