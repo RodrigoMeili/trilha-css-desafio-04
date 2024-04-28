@@ -1,6 +1,6 @@
 # trilha-css-desafio-03 - Discord
 
-![Imagem do projeto final](src/images/YouTube-Grid.png)
+![Imagem do projeto final](assets/source/rodrigomeili.github.io_trilha-css-desafio-04_.png)
 
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte de um desafio proposto para clonar uma página do Discord a partir de um protótipo no Figma. O foco principal do desafio era a utilização de medias querys para termos um site com design responsivo tanto para Mobile quanto para Desktop
